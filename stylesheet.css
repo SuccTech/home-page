@@ -1,0 +1,173 @@
+h1 {
+    color: yellow;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 70px;
+    text-transform: uppercase;
+}
+
+body{
+    background-image: url("Image1.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.para1 {
+    animation: alternate-reverse;
+    margin-left: 10px;
+    font-size: 20px;
+    font-style: normal;
+    color: green;
+    text-transform: uppercase;
+}
+
+h2 {
+    color: yellow;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+.below {
+    text-decoration: underline;
+}
+.para2 {
+    animation: alternate-reverse;
+    margin-left: 10px;
+    font-size: 20px;
+    font-style: normal;
+    color: green;
+}
+
+.para3 {
+    animation: alternate-reverse;
+    margin-left: 10px;
+    font-size: 20px;
+    font-style: normal;
+    color: white;
+}
+.para4 {
+    animation: alternate-reverse;
+    margin-left: 10px;
+    font-size: 20px;
+    font-style: normal;
+    color: yellow;
+}
+
+.ol1 {
+    animation: alternate-reverse;
+    margin-left: 10px;
+    font-size: 25px;
+    font-style: normal;
+    color: green;
+}
+
+a:link{
+    color: aqua;
+}
+
+a:visited{
+    color: green;
+}
+
+a:hover{
+    color: yellow;
+}
+
+.a1 {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 20px;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.ul1 {
+    animation: alternate-reverse;
+    margin-left: 10px;
+    font-size: 25px;
+    font-style: normal;
+    color: green;
+    text-transform: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.img1 {
+    margin-left: 400px;
+    margin-top: 30px;
+}
+
+.para6 {
+    animation: alternate-reverse;
+    margin-left: 10px;
+    font-size: 20px;
+    font-style: normal;
+    color: yellow;
+    text-transform: uppercase;
+}
+
+.para7{
+    animation: alternate-reverse;
+    margin-left: 10px;
+    font-size: 25px;
+    font-style: normal;
+    color: yellow;
+}
+
+.para5 {
+    animation: alternate-reverse;
+    margin-left: 10px;
+    font-size: 20px;
+    font-style: normal;
+    color: green;
+}
+
+h3 {
+    color: green;
+    text-decoration: underline;
+}
+
+.a2 {
+    text-align: center;
+    text-decoration: underline;
+    font-size: larger;
+    font-size: 30px;
+    color: yellow;
+    text-transform: uppercase;
+}
+
+.marquee1 {
+    background-color: yellow;
+    color: green;
+    text-transform: uppercase;
+    font-size: 50px;
+}
+
+.navbar{
+    background-color: azure;
+    display: flex;
+    float: right;
+    justify-content: center;
+    align-items: center;
+    margin: 2px;
+    text-transform: uppercase;
+    padding: 2px;
+    margin: 2px;
+    word-spacing: 2px;
+    gap: 10px;
+    list-style: none;
+
+    
+}
+.navbar li{
+    background-color: none;
+    gap: 2px;
+    
+}
+
+.h11 {
+    text-align: center;
+    text-transform: uppercase;
+    color: yellow;
+    font-size: 40px;
+}
